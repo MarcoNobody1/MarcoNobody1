@@ -11,7 +11,7 @@
 - :pencil2: Este es el último proyecto en el que estoy trabajando:
 <p align="center">
   <a href="https://github.com/MarcoNobody1/dashboardhotel">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MarcoNobody1&repo=HotelMiranda&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MarcoNobody1&repo=dashboardhotel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
   </a>
 </p>
 
