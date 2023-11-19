@@ -22,7 +22,7 @@
 
 
 ## Qué estoy buscando.
-- 💞️ Me encantaría trabajar con una empresa que se dedique al desarrollo full stack, front end o back end. Estoy dispuesto a enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades y contribuir al crecimiento de la empresa.
+- 💞️ Me encantaría trabajar con una empresa que se dedique al desarrollo full stack, front end o back end. Estoy dispuesto a enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades y así contribuir tanto a mi crecimiento personal como al crecimiento de la empresa.
 
 # Contacto
 
