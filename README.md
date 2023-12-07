@@ -8,7 +8,7 @@
 ## Qué hago actualmente.
 - 🌱 Actualmente estoy realizando un curso de programación Full Stack en _**OXYGEN Academy & Recruiting**_, donde he tenido la oportunidad de sumergirme en un entorno de trabajo real desde el primer día, lo que me ha permitido adquirir habilidades prácticas y adaptarme rápidamente con el apoyo de mentores y compañeros de equipo.
 
-- :pencil2: Este es el último proyecto en el que estoy trabajando:
+- 📝 Este es el último proyecto en el que estoy trabajando:
 <p align="center">
   <a href="https://github.com/MarcoNobody1/HotelMirandaPHP">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=MarcoNobody1&repo=HotelMirandaPHP&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
