@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Marco Antonio Cámara
-- 👀 Soy un apasionado de las nuevas tecnologías y el desarrollo Full Stack. Me apasiona la creación de páginas web, y en un futuro próximo me gustaría especializarme en el estudio de la inteligencia artificial para poder dedicarme a desarrollar soluciones innovadoras y eficientes.
+- 👀 Soy un apasionado de las nuevas tecnologías y el desarrollo Full Stack. Me dedico a la creación de páginas web, y en un futuro próximo me gustaría especializarme en el estudio de la inteligencia artificial para poder dedicarme a desarrollar soluciones innovadoras y eficientes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoNobody1&layout=compact&theme=dracula&locale=es" alt="Top Langs">
