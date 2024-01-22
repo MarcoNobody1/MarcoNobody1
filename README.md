@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Marco Antonio Cámara
+# ¡Hola! 👋 Soy Marco Cámara
 - 👀 Soy un apasionado de las nuevas tecnologías y el desarrollo Full Stack. Me dedico a la creación de páginas web, y en un futuro próximo me gustaría especializarme en el estudio de la inteligencia artificial para poder dedicarme a desarrollar soluciones innovadoras y eficientes.
 
 <p align="center">
