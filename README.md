@@ -6,7 +6,7 @@
 </p>
 
 ## Qué hago actualmente.
-- 🌱 Actualmente estoy trabajando de Full Stack Developer en _**OXYGEN Academy & Recruiting**_, donde he tenido la oportunidad de sumergirme en un entorno de trabajo cómodo desde el primer día, lo que me ha permitido adaptarme rápidamente a la metodología de trabajo con el apoyo de mis compañeros de equipo.
+- 🌱 ~ This paragraph is under maintenance ~
 
 - 📝 Este es el último proyecto en el que estoy trabajando:
 <p align="center">
