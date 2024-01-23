@@ -6,7 +6,7 @@
 </p>
 
 ## Qué hago actualmente.
-- 🌱 ~ This paragraph is under maintenance ~
+- 🌱 Actualmente estoy trabajando en Zimaltec Soluciones S.L.
 
 - 📝 Este es el último proyecto en el que estoy trabajando:
 <p align="center">
