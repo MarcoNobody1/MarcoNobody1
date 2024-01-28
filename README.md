@@ -22,7 +22,7 @@
 
 
 ## Qué estoy buscando.
-- 💞️ Me encantaría trabajar con una empresa o una startup que se dedique al desarrollo full stack, front end o back end. Estoy dispuesto a enfrentar nuevos desafíos y aprender constantemente para mejorar mis habilidades y así contribuir tanto a mi crecimiento personal como al crecimiento de la empresa.
+- 💞️ Actualmente, estoy formándome en otros lenguajes de programación en mi nueva empresa. Me encantaría crecer siguiendo un camino que me lleve hacia el desarrollo de software relacionado con el campo de la inteligencia artificial.
 
 # Contacto
 
