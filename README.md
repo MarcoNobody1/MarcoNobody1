@@ -6,7 +6,7 @@
 </p>
 
 ## Qué hago actualmente.
-- 🌱 Actualmente estoy trabajando en Zimaltec Soluciones, S.L. como Front-end Developer.
+- 🌱 Actualmente estoy trabajando en Zimaltec Soluciones, S.L. como Front-end Developer, utilizando tecnologías como C#, Blazer, ASP.NET etc.
 
 - 📝 Este es el último proyecto en el que estoy trabajando:
 <p align="center">
