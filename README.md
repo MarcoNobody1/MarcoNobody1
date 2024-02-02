@@ -26,7 +26,7 @@
 
 # Contacto
 
-- 📫 Puedes contactarme a través de mi email personal: marcocamaradiaz@gmail.com .
+- 📫 Puedes contactar conmigo a través de mi email personal: marcocamaradiaz@gmail.com .
 
 - 💻 Tambien puedes visitar mi perfil de LinkedIn: [www.linkedin.com/in/marcocamaradiaz](www.linkedin.com/in/marcocamaradiaz).
 
