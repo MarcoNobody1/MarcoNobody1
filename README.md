@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Marco Cámara
+# ¡Hola! 👋 Soy Marco A. Cámara
 - 👀 Soy un apasionado de las nuevas tecnologías y el desarrollo Full Stack. Me dedico a la creación de páginas web, y en un futuro próximo me gustaría especializarme en el estudio de la IA para poder dedicarme a desarrollar soluciones innovadoras y eficientes utilizando las tecnologías puntas del sector.
 
 <p align="center">
